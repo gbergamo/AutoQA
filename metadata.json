@@ -1,0 +1,5 @@
+{
+  "name": "AutoQA",
+  "description": "An iOS-styled intelligent web testing agent. Generates automated test scripts and simulates user interactions for web validation.",
+  "requestFramePermissions": []
+}
